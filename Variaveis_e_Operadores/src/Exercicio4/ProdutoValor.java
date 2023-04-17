@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class ProdutoValor {
 
-	public static void variaveis(String[] args) {
+	public static void main(String[] args) {
 
 		Locale.setDefault(Locale.US);
 
